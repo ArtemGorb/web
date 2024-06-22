@@ -7,3 +7,5 @@
   ## Отчеты о дефекте и тестран(ДЗ 3-3)
   - [Отчет о тестране в Qase](https://github.com/ArtemGorb/web/blob/main/G7-WebTestRun_AG.pdf)
   - [Экспорт заведенных дефектов из Youtrack по результатам тестрана и чеклиста](https://github.com/ArtemGorb/web/blob/main/Issues_WebTesting_AG.xlsx)
+## Перехват траффика с использованием приложения Charles Proxy
+- [Видео выполнения задания](https://github.com/ArtemGorb/web/blob/main/Desktop_SnifferTask_AG.mkv)
